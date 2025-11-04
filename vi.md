@@ -9,7 +9,3 @@ c
 3
 e
 f
-
-gpg
-
-test
